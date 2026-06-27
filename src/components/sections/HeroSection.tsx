@@ -84,7 +84,7 @@ export function HeroSection() {
   return (
     <section
       ref={ref}
-      className="relative min-h-screen flex items-center justify-center overflow-hidden bg-background pt-16"
+      className="relative min-h-screen flex items-center justify-center overflow-hidden bg-background"
     >
       <CursorGlow />
 
@@ -96,7 +96,7 @@ export function HeroSection() {
 
       <motion.div
         style={{ y, opacity }}
-          className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid md:grid-cols-2 gap-8 md:gap-12 items-center w-full"
+          className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid md:grid-cols-2 gap-8 md:gap-12 items-center w-full pt-16 md:pt-16"
       >
         {/* Left content */}
         <div>

@@ -30,7 +30,7 @@ const cards = [
 
 export function WhyFounders() {
   return (
-    <section id="why-us" className="py-16 sm:py-24 px-4 sm:px-6 lg:px-8 bg-background relative overflow-hidden">
+    <section id="why-us" className="py-16 sm:py-24 px-4 sm:px-6 lg:px-8 bg-background relative overflow-hidden scroll-mt-16">
       {/* Subtle background gradient */}
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_60%_40%_at_50%_100%,oklch(0.62_0.24_265/8%),transparent)]" />
 

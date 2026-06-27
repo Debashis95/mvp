@@ -54,7 +54,7 @@ const team = [
 
 export function MeetTeam() {
   return (
-    <section id="team" className="py-16 sm:py-24 px-4 sm:px-6 lg:px-8 bg-background relative overflow-hidden">
+    <section id="team" className="py-16 sm:py-24 px-4 sm:px-6 lg:px-8 bg-background relative overflow-hidden scroll-mt-16">
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_40%_60%_at_80%_50%,oklch(0.62_0.24_265/6%),transparent)]" />
 
       <div className="relative max-w-7xl mx-auto">

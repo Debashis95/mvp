@@ -258,7 +258,7 @@ export function BookingSection() {
   }
 
   return (
-    <section id="booking" className="py-16 sm:py-24 px-4 sm:px-6 lg:px-8 bg-muted/20 relative overflow-hidden">
+    <section id="booking" className="py-16 sm:py-24 px-4 sm:px-6 lg:px-8 bg-muted/20 relative overflow-hidden scroll-mt-16">
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_60%_40%_at_50%_0%,oklch(0.62_0.24_265/10%),transparent)]" />
 
       <div className="relative max-w-4xl mx-auto">
